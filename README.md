@@ -9,6 +9,14 @@
 ![Domain](https://img.shields.io/badge/Domain-Cafe%20Sales-7C3AED)
 ![License](https://img.shields.io/badge/license-MIT-16A34A)
 
+<br>
+
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/DAX-0F4C81?style=for-the-badge" alt="DAX" height="40" />
+
 ### Interactive Sales and Business Insights Dashboard
 
 **Cafe sales, customer payment behaviour and product trends, in one Power BI dashboard.**
@@ -49,8 +57,8 @@ Net revenue margin is about **95%**.
 
 | Tool | What it was used for |
 |------|----------------------|
-| 🟢 **Microsoft Excel** | Data cleaning and transformation |
-| 🟡 **Power BI** | Data modelling, DAX and dashboard design |
+| <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" height="18" /> **Microsoft Excel** | Data cleaning and transformation |
+| <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="18" /> **Power BI** | Data modelling, DAX and dashboard design |
 | 🔵 **DAX** | Measures and calculated columns |
 
 ---
@@ -165,10 +173,10 @@ Monthly transaction volume stayed fairly steady through the year, with a rise to
 
 | File | Description |
 |------|-------------|
-| 📊 [Cafe Sales Performance and Analytics.pbix](./Cafe%20Sales%20Performance%20and%20Analytics.pbix) | Power BI project file |
+| <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="16" /> [Cafe Sales Performance and Analytics.pbix](./Cafe%20Sales%20Performance%20and%20Analytics.pbix) | Power BI project file |
 | 🖼️ [Dashboard-Preview/](./Dashboard-Preview/) | Screenshots of every dashboard page |
 | 📄 [Cafe_Sales_Raw_Data.csv](./Cafe_Sales_Raw_Data.csv) | Original, unprocessed sales data |
-| 🟢 [Cafe_Sales_Cleaned_Data.xlsx](./Cafe_Sales_Cleaned_Data.xlsx) | Cleaned and transformed data used for the analysis |
+| <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" height="16" /> [Cafe_Sales_Cleaned_Data.xlsx](./Cafe_Sales_Cleaned_Data.xlsx) | Cleaned and transformed data used for the analysis |
 | 📕 [Cafe_Sales_Project_Report.pdf](./Cafe_Sales_Project_Report.pdf) | Full project report with methodology and findings |
 | ⚖️ [LICENSE](./LICENSE) | MIT license terms |
 
@@ -187,11 +195,11 @@ Monthly transaction volume stayed fairly steady through the year, with a rise to
 
 | Area | What it covers |
 |------|----------------|
-| **Data cleaning** | Cleaning and transforming raw data in Excel |
-| **Data modelling** | Building a data model in Power BI |
-| **DAX** | Measures and calculated columns |
-| **Dashboard design** | Slicers, page navigation, bookmarks and drill-through |
-| **Business analysis** | Turning sales data into insights and recommendations |
+| <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" height="16" /> **Data cleaning** | Cleaning and transforming raw data in Excel |
+| <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="16" /> **Data modelling** | Building a data model in Power BI |
+| 🔵 **DAX** | Measures and calculated columns |
+| 📊 **Dashboard design** | Slicers, page navigation, bookmarks and drill-through |
+| 💡 **Business analysis** | Turning sales data into insights and recommendations |
 
 ---
 
@@ -207,5 +215,3 @@ Monthly transaction volume stayed fairly steady through the year, with a rise to
 ## ⚖️ License
 
 This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:78350F&height=100&section=footer" alt="footer" />
