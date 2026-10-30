@@ -2,20 +2,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:78350F,100:F59E0B&height=220&section=header&text=Cafe%20Sales%20Performance%20and%20Analytics&fontSize=34&fontColor=ffffff&desc=Excel%20%7C%20Power%20BI%20%7C%20DAX&descAlignY=66" alt="Cafe Sales Performance and Analytics banner" />
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-217346?logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-Measures-0F4C81)
-![Pages](https://img.shields.io/badge/Dashboard-5%20pages%20%2B%201%20drill--through-B45309)
-![Domain](https://img.shields.io/badge/Domain-Cafe%20Sales-7C3AED)
-![License](https://img.shields.io/badge/license-MIT-16A34A)
+<br>
+
+<img src="https://img.shields.io/badge/EXCEL-Data%20Cleaning-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/POWER%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/DAX-Measures-0F4C81?style=for-the-badge" alt="DAX" />
 
 <br>
 
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/DAX-0F4C81?style=for-the-badge" alt="DAX" height="40" />
+<img src="https://img.shields.io/badge/Status-Completed-16A34A?style=for-the-badge" alt="Status" />
+<img src="https://img.shields.io/badge/Dashboard-5%20Pages%20%2B%201%20Drill--through-B45309?style=for-the-badge" alt="Pages" />
+<img src="https://img.shields.io/badge/Domain-Cafe%20Sales-7C3AED?style=for-the-badge" alt="Domain" />
+<img src="https://img.shields.io/badge/License-MIT-CA8A04?style=for-the-badge" alt="License" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/ansania-salam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/AnsaniaSalam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 ### Interactive Sales and Business Insights Dashboard
 
