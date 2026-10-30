@@ -4,9 +4,9 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/EXCEL-Data%20Cleaning-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-<img src="https://img.shields.io/badge/POWER%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/DAX-Measures-0F4C81?style=for-the-badge" alt="DAX" />
+<img src="https://img.shields.io/badge/EXCEL-Data%20Cleaning-217346?style=for-the-badge&logoBase64=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNNyA3bDEwIDEwTTE3IDdMNyAxNyIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPC9zdmc%2B" alt="Excel" />
+<img src="https://img.shields.io/badge/POWER%20BI-Dashboard-F2C811?style=for-the-badge&logoBase64=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMyIgeT0iMTIiIHdpZHRoPSI0LjUiIGhlaWdodD0iOSIgcng9IjEiIGZpbGw9IiMwMDAiLz48cmVjdCB4PSI5Ljc1IiB5PSI3IiB3aWR0aD0iNC41IiBoZWlnaHQ9IjE0IiByeD0iMSIgZmlsbD0iIzAwMCIvPjxyZWN0IHg9IjE2LjUiIHk9IjIiIHdpZHRoPSI0LjUiIGhlaWdodD0iMTkiIHJ4PSIxIiBmaWxsPSIjMDAwIi8%2BPC9zdmc%2B" alt="Power BI" />
+<img src="https://img.shields.io/badge/DAX-Measures-0F4C81?style=for-the-badge&logoBase64=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTE4IDRINmw3IDgtNyA4aDEyIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi40IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4%3D" alt="DAX" />
 
 <br>
 
@@ -17,7 +17,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/ansania-salam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ansania-salam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoBase64=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMyIgeT0iOSIgd2lkdGg9IjQiIGhlaWdodD0iMTIiIGZpbGw9IiNmZmYiLz48Y2lyY2xlIGN4PSI1IiBjeT0iNSIgcj0iMi4yIiBmaWxsPSIjZmZmIi8%2BPHBhdGggZD0iTTEwIDloNHYxLjhjLjgtMS4zIDItMi4xIDMuOS0yLjEgMyAwIDQuMSAyIDQuMSA1VjIxaC00di02LjJjMC0xLjQtLjUtMi4zLTEuOC0yLjMtMS40IDAtMi4yIDEtMi4yIDIuNVYyMWgtNHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
 <a href="https://github.com/AnsaniaSalam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 ### Interactive Sales and Business Insights Dashboard
@@ -60,9 +60,9 @@ Net revenue margin is about **95%**.
 
 | Tool | What it was used for |
 |------|----------------------|
-| <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" height="18" /> **Microsoft Excel** | Data cleaning and transformation |
-| <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="18" /> **Power BI** | Data modelling, DAX and dashboard design |
-| 🔵 **DAX** | Measures and calculated columns |
+| <img src="https://img.shields.io/badge/-%20-217346?style=flat-square&logoBase64=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNNyA3bDEwIDEwTTE3IDdMNyAxNyIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPC9zdmc%2B" alt="Excel" height="20" /> **Microsoft Excel** | Data cleaning and transformation |
+| <img src="https://img.shields.io/badge/-%20-F2C811?style=flat-square&logoBase64=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMyIgeT0iMTIiIHdpZHRoPSI0LjUiIGhlaWdodD0iOSIgcng9IjEiIGZpbGw9IiMwMDAiLz48cmVjdCB4PSI5Ljc1IiB5PSI3IiB3aWR0aD0iNC41IiBoZWlnaHQ9IjE0IiByeD0iMSIgZmlsbD0iIzAwMCIvPjxyZWN0IHg9IjE2LjUiIHk9IjIiIHdpZHRoPSI0LjUiIGhlaWdodD0iMTkiIHJ4PSIxIiBmaWxsPSIjMDAwIi8%2BPC9zdmc%2B" alt="Power BI" height="20" /> **Power BI** | Data modelling, DAX and dashboard design |
+| <img src="https://img.shields.io/badge/-%20-0F4C81?style=flat-square&logoBase64=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTE4IDRINmw3IDgtNyA4aDEyIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi40IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4%3D" alt="DAX" height="20" /> **DAX** | Measures and calculated columns |
 
 ---
 
@@ -176,10 +176,10 @@ Monthly transaction volume stayed fairly steady through the year, with a rise to
 
 | File | Description |
 |------|-------------|
-| <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="16" /> [Cafe Sales Performance and Analytics.pbix](./Cafe%20Sales%20Performance%20and%20Analytics.pbix) | Power BI project file |
+| <img src="https://img.shields.io/badge/-%20-F2C811?style=flat-square&logoBase64=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMyIgeT0iMTIiIHdpZHRoPSI0LjUiIGhlaWdodD0iOSIgcng9IjEiIGZpbGw9IiMwMDAiLz48cmVjdCB4PSI5Ljc1IiB5PSI3IiB3aWR0aD0iNC41IiBoZWlnaHQ9IjE0IiByeD0iMSIgZmlsbD0iIzAwMCIvPjxyZWN0IHg9IjE2LjUiIHk9IjIiIHdpZHRoPSI0LjUiIGhlaWdodD0iMTkiIHJ4PSIxIiBmaWxsPSIjMDAwIi8%2BPC9zdmc%2B" alt="Power BI" height="20" /> [Cafe Sales Performance and Analytics.pbix](./Cafe%20Sales%20Performance%20and%20Analytics.pbix) | Power BI project file |
 | 🖼️ [Dashboard-Preview/](./Dashboard-Preview/) | Screenshots of every dashboard page |
 | 📄 [Cafe_Sales_Raw_Data.csv](./Cafe_Sales_Raw_Data.csv) | Original, unprocessed sales data |
-| <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" height="16" /> [Cafe_Sales_Cleaned_Data.xlsx](./Cafe_Sales_Cleaned_Data.xlsx) | Cleaned and transformed data used for the analysis |
+| <img src="https://img.shields.io/badge/-%20-217346?style=flat-square&logoBase64=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNNyA3bDEwIDEwTTE3IDdMNyAxNyIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPC9zdmc%2B" alt="Excel" height="20" /> [Cafe_Sales_Cleaned_Data.xlsx](./Cafe_Sales_Cleaned_Data.xlsx) | Cleaned and transformed data used for the analysis |
 | 📕 [Cafe_Sales_Project_Report.pdf](./Cafe_Sales_Project_Report.pdf) | Full project report with methodology and findings |
 | ⚖️ [LICENSE](./LICENSE) | MIT license terms |
 
@@ -198,9 +198,9 @@ Monthly transaction volume stayed fairly steady through the year, with a rise to
 
 | Area | What it covers |
 |------|----------------|
-| <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" height="16" /> **Data cleaning** | Cleaning and transforming raw data in Excel |
-| <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="16" /> **Data modelling** | Building a data model in Power BI |
-| 🔵 **DAX** | Measures and calculated columns |
+| <img src="https://img.shields.io/badge/-%20-217346?style=flat-square&logoBase64=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNNyA3bDEwIDEwTTE3IDdMNyAxNyIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPC9zdmc%2B" alt="Excel" height="20" /> **Data cleaning** | Cleaning and transforming raw data in Excel |
+| <img src="https://img.shields.io/badge/-%20-F2C811?style=flat-square&logoBase64=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMyIgeT0iMTIiIHdpZHRoPSI0LjUiIGhlaWdodD0iOSIgcng9IjEiIGZpbGw9IiMwMDAiLz48cmVjdCB4PSI5Ljc1IiB5PSI3IiB3aWR0aD0iNC41IiBoZWlnaHQ9IjE0IiByeD0iMSIgZmlsbD0iIzAwMCIvPjxyZWN0IHg9IjE2LjUiIHk9IjIiIHdpZHRoPSI0LjUiIGhlaWdodD0iMTkiIHJ4PSIxIiBmaWxsPSIjMDAwIi8%2BPC9zdmc%2B" alt="Power BI" height="20" /> **Data modelling** | Building a data model in Power BI |
+| <img src="https://img.shields.io/badge/-%20-0F4C81?style=flat-square&logoBase64=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTE4IDRINmw3IDgtNyA4aDEyIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi40IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4%3D" alt="DAX" height="20" /> **DAX** | Measures and calculated columns |
 | 📊 **Dashboard design** | Slicers, page navigation, bookmarks and drill-through |
 | 💡 **Business analysis** | Turning sales data into insights and recommendations |
 
@@ -210,7 +210,7 @@ Monthly transaction volume stayed fairly steady through the year, with a rise to
 
 **Ansania Salam**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ansania%20Salam-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansania-salam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ansania%20Salam-0A66C2?logoBase64=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMyIgeT0iOSIgd2lkdGg9IjQiIGhlaWdodD0iMTIiIGZpbGw9IiNmZmYiLz48Y2lyY2xlIGN4PSI1IiBjeT0iNSIgcj0iMi4yIiBmaWxsPSIjZmZmIi8%2BPHBhdGggZD0iTTEwIDloNHYxLjhjLjgtMS4zIDItMi4xIDMuOS0yLjEgMyAwIDQuMSAyIDQuMSA1VjIxaC00di02LjJjMC0xLjQtLjUtMi4zLTEuOC0yLjMtMS40IDAtMi4yIDEtMi4yIDIuNVYyMWgtNHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/ansania-salam)
 [![GitHub](https://img.shields.io/badge/GitHub-AnsaniaSalam-181717?logo=github&logoColor=white)](https://github.com/AnsaniaSalam)
 
 ---
